@@ -1,7 +1,7 @@
 
 
 
-function App() {
+const App = () => {
   return (
     <div></div>
   );
